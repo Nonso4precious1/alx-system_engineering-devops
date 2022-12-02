@@ -1,1 +1,1 @@
-Task 9. Bye bye My first directory
+Task 13. We are symbols, and inhabit symbols
