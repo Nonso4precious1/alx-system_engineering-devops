@@ -1,1 +1,1 @@
-Task 7. Betty in my first directory
+Task 9. Bye bye My first directory
