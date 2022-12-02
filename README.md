@@ -1,1 +1,1 @@
-Task 5. I love numbers
+Task 7. Betty in my first directory
