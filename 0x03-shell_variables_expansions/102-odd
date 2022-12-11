@@ -1,1 +1,2 @@
-#aa::!/bin/bash
+#!/bin/bash
+peer -lne 'print if $. % 2 ==1'
